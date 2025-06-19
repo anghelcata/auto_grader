@@ -1,0 +1,242 @@
+[
+  {
+    "answer_id": "S120_Q1",
+    "student_id": "S120",
+    "question_id": "Q1",
+    "question": "What is a version control system and why is it essential in software development?",
+    "rubric": "technical",
+    "answer": "A software that tracks file changes over time. It is essential because it allows reverting to previous versions, facilitates collaboration between programmers, keeps a history of changes, and helps identify and fix errors."
+  },
+  {
+    "answer_id": "S120_Q2",
+    "student_id": "S120",
+    "question_id": "Q2",
+    "question": "Explain the difference between narrow AI and general AI. Provide examples for each.",
+    "rubric": "technical",
+    "answer": "Narrow AI is designed to perform a specific task. It has no consciousness or generalization ability. Examples: Siri, ChatGPT, facial recognition. General AI can understand, learn, and solve problems across various domains like a human. Examples: an autonomous robot that can drive, write code, and understand natural language."
+  },
+  {
+    "answer_id": "S120_Q3",
+    "student_id": "S120",
+    "question_id": "Q3",
+    "question": "What is the Naive Bayes classifier and how is it applied in decision-making?",
+    "rubric": "technical",
+    "answer": "The Naive Bayes classifier is a machine learning algorithm based on Bayes' theorem, used for classification. It's called 'naive' because it assumes that all features (attributes) are independent of each other, which is not always true in reality. It is used to predict the class of a new item based on probabilities computed from existing data. It's effective in email classification, sentiment analysis, or medical diagnosis."
+  },
+  {
+    "answer_id": "S120_Q4",
+    "student_id": "S120",
+    "question_id": "Q4",
+    "question": "Describe the main steps of the search algorithm used in an expert system.",
+    "rubric": "technical",
+    "answer": "Main steps of the search algorithm in an expert system:\n1. Knowledge representation: Information is organized as rules ('if–then') or facts in a knowledge base.\n2. Initial state identification: The system starts from known facts provided by the user or observed.\n3. Inference engine selection: A search strategy is chosen — forward chaining or backward chaining.\n4. Rule application: The inference engine checks which rules can be applied based on the facts and generates new conclusions.\n5. Fact base update: Newly obtained information is added to the fact base.\n6. Goal check: The system checks if the goal (answer or solution) has been reached. If not, the process continues.\n7. Stop condition: The search stops when a solution is found or no more applicable rules remain."
+  },
+  {
+    "answer_id": "S120_Q5",
+    "student_id": "S120",
+    "question_id": "Q5",
+    "question": "What role does facial recognition play in modern security applications?",
+    "rubric": "technical",
+    "answer": "Facial recognition plays an important role in modern security applications, being used for identification and authentication. It is applied in access control (e.g., unlocking a phone or entering buildings), video surveillance to detect suspects, and identity verification in airports or institutions. Thus, it contributes to increased safety and automation of security processes."
+  },
+  {
+    "answer_id": "S120_Q6",
+    "student_id": "S120",
+    "question_id": "Q6",
+    "question": "Should the use of facial recognition systems be restricted in public spaces? Justify your answer.",
+    "rubric": "argumentative",
+    "answer": "Yes, the use of facial recognition systems should be restricted in public spaces because they raise serious issues related to privacy, excessive surveillance, and potential abuse by authorities or private companies. Although these systems can enhance security, they may violate fundamental citizens' rights if used without consent or transparency. Their use should be clearly regulated, subject to independent oversight, and only allowed in justified situations such as preventing serious crimes."
+  },
+  {
+    "answer_id": "S120_Q7",
+    "student_id": "S120",
+    "question_id": "Q7",
+    "question": "Should teachers accept the use of GitHub by students instead of uploading assignments to Moodle?",
+    "rubric": "argumentative",
+    "answer": "Yes, teachers should accept the use of GitHub by students instead of uploading assignments to Moodle, especially in technical or programming fields. GitHub provides a real-world working environment where students can organize their code, collaborate more effectively, and learn key concepts such as version control, commits, and branches. Moreover, GitHub is widely used in industry, and becoming familiar with it better prepares students for the job market. However, universities should ideally offer both options to accommodate all students regardless of their technical level."
+  },
+  {
+    "answer_id": "S120_Q8",
+    "student_id": "S120",
+    "question_id": "Q8",
+    "question": "Can an AI-based system make ethical decisions responsibly? Argue.",
+    "rubric": "argumentative",
+    "answer": "An AI-based system can make ethical decisions to a certain extent, but not entirely responsibly because it lacks consciousness, empathy, or true understanding of moral context like a human. Ethical decisions often involve nuances, cultural values, and moral judgment that AI can imitate but not truly comprehend. AI systems can be programmed to follow ethical rules (e.g., avoid discrimination), but they rely on data and algorithms created by humans, which may contain errors or biases. Therefore, while AI can support ethical decision-making, the final responsibility must remain with humans."
+  },
+  {
+    "answer_id": "S120_Q9",
+    "student_id": "S120",
+    "question_id": "Q9",
+    "question": "To what extent do online personalization algorithms affect users' autonomy?",
+    "rubric": "argumentative",
+    "answer": "Online personalization algorithms significantly affect users' autonomy by limiting choices and influencing decisions through displayed content. For example, on social networks or news platforms, users see only information that confirms their beliefs (so-called 'filter bubbles'), reducing opinion diversity and the ability to make informed choices. While personalization can improve the digital experience, it can also lead to manipulation, addiction, or even radicalization, thus undermining real freedom of choice. Users should have transparency and control over how these algorithms function."
+  },
+  {
+    "answer_id": "S120_Q10",
+    "student_id": "S120",
+    "question_id": "Q10",
+    "question": "Is it correct to consider that a machine that passes the Turing Test is \"intelligent\"? Why or why not?",
+    "rubric": "argumentative",
+    "answer": "It is not necessarily correct to consider that a machine that passes the Turing Test is 'intelligent' in the human sense. The Turing Test evaluates whether a machine can imitate human conversational behavior, not whether it truly understands what it says. A machine may pass the test using advanced language processing algorithms without having consciousness, intent, or real understanding. True intelligence involves more than appearances: it requires reasoning, emotions, values, and deep adaptability — things AI does not genuinely possess. Therefore, the test is useful but insufficient to demonstrate authentic intelligence."
+  },
+  {
+    "answer_id": "S121_Q1",
+    "student_id": "S121",
+    "question_id": "Q1",
+    "question": "What is a version control system and why is it essential in software development?",
+    "rubric": "technical",
+    "answer": "A version control system is a tool that helps manage changes made to source code over time. It is essential in software development because it enables teams (or individual developers) to collaborate efficiently, track every change in the code, and revert to previous versions if problems occur."
+  },
+  {
+    "answer_id": "S121_Q2",
+    "student_id": "S121",
+    "question_id": "Q2",
+    "question": "Explain the difference between narrow AI and general AI. Provide examples for each.",
+    "rubric": "technical",
+    "answer": "Narrow AI is specialized to perform a single task or a limited set of tasks. It is programmed and trained for a specific purpose and cannot go beyond that domain. Examples: Siri, ChatGPT, Google Maps. General AI is an artificial intelligence capable of learning, understanding, and solving any cognitive task that a human can perform. It is a form of intelligence capable of general reasoning, adaptation, and self-awareness. Example: (hypothetical) a robot with human-like reasoning."
+  },
+  {
+    "answer_id": "S121_Q3",
+    "student_id": "S121",
+    "question_id": "Q3",
+    "question": "What is the Naive Bayes classifier and how is it applied in decision-making?",
+    "rubric": "technical",
+    "answer": "The Naive Bayes classifier is a machine learning algorithm based on Bayes' Theorem, used for classification tasks. How it works: 1. Training: Probability distributions for features are determined for each class (e.g., word frequency in spam vs. legitimate emails). 2. Classification: For a new example, the probability that it belongs to each class is calculated. 3. Decision: The class with the highest probability is selected — the decision-making step."
+  },
+  {
+    "answer_id": "S121_Q4",
+    "student_id": "S121",
+    "question_id": "Q4",
+    "question": "Describe the main steps of the search algorithm used in an expert system.",
+    "rubric": "technical",
+    "answer": "1. Collect initial information (Facts): The system receives a set of facts from the user or environment. These represent the initial knowledge state. 2. Select inference strategy: The system chooses how to apply rules from the knowledge base. Two main strategies are: Forward Chaining – starts from facts and applies rules to derive conclusions; Backward Chaining – starts from a hypothesis and checks if it can be deduced from current facts. 3. Search for applicable rules: The system scans the rule base and identifies rules whose conditions match the current facts. Applicable rules are activated. 4. Select and apply rule: If multiple rules are applicable, a conflict resolution strategy is used (e.g., most specific, most recent, or highest priority). The selected rule is applied and generates new facts. 5. Update fact base: Newly generated facts are added to the fact base. The process restarts from step 3. 6. Check goal: The system checks if the desired goal or conclusion has been reached. If yes, the process ends; if not, it continues. 7. Stop condition: The search ends when: the goal is reached; no more applicable rules exist; a time or resource limit is reached."
+  },
+  {
+    "answer_id": "S121_Q5",
+    "student_id": "S121",
+    "question_id": "Q5",
+    "question": "What role does facial recognition play in modern security applications?",
+    "rubric": "technical",
+    "answer": "Facial recognition is a powerful technology in the modern security toolkit, enabling rapid, automatic, and non-invasive identification. However, it requires responsible use, with a balance between safety and individual rights."
+  },
+  {
+    "answer_id": "S121_Q6",
+    "student_id": "S121",
+    "question_id": "Q6",
+    "question": "Should the use of facial recognition systems be restricted in public spaces? Justify your answer.",
+    "rubric": "argumentative",
+    "answer": "I believe facial recognition systems should be limited to specific domains, with the main concern being the privacy issues associated with this technology."
+  },
+  {
+    "answer_id": "S121_Q7",
+    "student_id": "S121",
+    "question_id": "Q7",
+    "question": "Should teachers accept the use of GitHub by students instead of uploading assignments to Moodle?",
+    "rubric": "argumentative",
+    "answer": "At this point, I believe Moodle is easier to use when it comes to uploading assignments."
+  },
+  {
+    "answer_id": "S121_Q8",
+    "student_id": "S121",
+    "question_id": "Q8",
+    "question": "Can an AI-based system make ethical decisions responsibly? Argue.",
+    "rubric": "argumentative",
+    "answer": "I believe that an AI-based system cannot make ethical decisions responsibly, because at present it is highly likely to decide something based solely on logic, without involving any moral consideration."
+  },
+  {
+    "answer_id": "S121_Q9",
+    "student_id": "S121",
+    "question_id": "Q9",
+    "question": "To what extent do online personalization algorithms affect users' autonomy?",
+    "rubric": "argumentative",
+    "answer": "Personalization algorithms can support a user's autonomy when they offer relevance and control, but they can also undermine it if they isolate, manipulate, or restrict access to alternative information."
+  },
+  {
+    "answer_id": "S121_Q10",
+    "student_id": "S121",
+    "question_id": "Q10",
+    "question": "Is it correct to consider that a machine that passes the Turing Test is \"intelligent\"? Why or why not?",
+    "rubric": "argumentative",
+    "answer": "Considering that a machine which passes the Turing Test is intelligent is not entirely correct, because the focus is on natural communication and convincing humans, not on intelligence as a concept."
+  },
+  {
+    "answer_id": "S122_Q1",
+    "student_id": "S122",
+    "question_id": "Q1",
+    "question": "What is a version control system and why is it essential in software development?",
+    "rubric": "technical",
+    "answer": "It is a software tool that helps development teams manage changes made to source code over time. It keeps a history of all modifications to a project's files, allowing for reverting to previous versions, comparing versions, and collaborating among multiple developers."
+  },
+  {
+    "answer_id": "S122_Q2",
+    "student_id": "S122",
+    "question_id": "Q2",
+    "question": "Explain the difference between narrow AI and general AI. Provide examples for each.",
+    "rubric": "technical",
+    "answer": "Narrow Artificial Intelligence (narrow AI) is designed to perform a specific task. It lacks consciousness, broad context understanding, and cannot operate outside the domain it was programmed or trained for. Example: Siri, ChatGPT, navigation apps. General Artificial Intelligence (general AI) refers to a system capable of understanding, learning, and performing any human cognitive task. It is a theoretical system with self-awareness, reasoning, and the ability to learn easily, including in programming."
+  },
+  {
+    "answer_id": "S122_Q3",
+    "student_id": "S122",
+    "question_id": "Q3",
+    "question": "What is the Naive Bayes classifier and how is it applied in decision-making?",
+    "rubric": "technical",
+    "answer": "Naive Bayes is a supervised classification technique based on Bayes’ Theorem, used in machine learning. It is called 'naive' because it assumes complete independence between features — which is rarely fully true, but works surprisingly well in practice. It estimates probabilities quickly and efficiently, making decisions by selecting the class with the highest estimated probability. Applications include spam filtering, sentiment analysis, fraud detection, medical diagnosis, and content recommendation based on user behavior."
+  },
+  {
+    "answer_id": "S122_Q4",
+    "student_id": "S122",
+    "question_id": "Q4",
+    "question": "Describe the main steps of the search algorithm used in an expert system.",
+    "rubric": "technical",
+    "answer": "1. Knowledge Representation: Information is structured as facts (e.g., 'The temperature is high') and rules (e.g., 'If the temperature is high, then it might be fever'). 2. Inference Method Selection: Two main strategies — Forward chaining (from facts to conclusions) and Backward chaining (from hypothesis to supporting facts). 3. Inference Engine Initialization: Takes known facts and loads them into working memory. 4. Rule Matching: Searches for rules whose conditions match current facts. 5. Rule Selection and Application: If multiple rules match, a control strategy is applied (priority, order, heuristic score). The selected rule generates a new fact. 6. Memory Update: The new fact is added to the working memory, possibly triggering other rules. 7. Goal Check: Verifies whether the goal has been reached. If yes, it stops; otherwise, the process repeats. 8. Finalization: The system returns a solution or reports failure if no conclusion is found."
+  },
+  {
+    "answer_id": "S122_Q5",
+    "student_id": "S122",
+    "question_id": "Q5",
+    "question": "What role does facial recognition play in modern security applications?",
+    "rubric": "technical",
+    "answer": "Facial recognition plays an essential role in modern security due to its ability to quickly and automatically identify people based on facial features. Key roles include: 1. Authentication and access control – replacing passwords or access cards (e.g., smartphones, buildings, time-tracking). 2. Surveillance and video monitoring – identifying wanted individuals, monitoring restricted areas, alerting in emergencies. 3. Law enforcement investigations. 4. Fraud prevention. 5. Transport and airport security."
+  },
+  {
+    "answer_id": "S122_Q6",
+    "student_id": "S122",
+    "question_id": "Q6",
+    "question": "Should the use of facial recognition systems be restricted in public spaces? Justify your answer.",
+    "rubric": "argumentative",
+    "answer": "Yes, the use of facial recognition systems in public spaces should be restricted due to ethical, legal, and social concerns. This does not imply a total ban, but rather strict regulation, transparency, and accountability regarding their deployment."
+  },
+  {
+    "answer_id": "S122_Q7",
+    "student_id": "S122",
+    "question_id": "Q7",
+    "question": "Should teachers accept the use of GitHub by students instead of uploading assignments to Moodle?",
+    "rubric": "argumentative",
+    "answer": "Yes, teachers should accept (or even encourage) the use of GitHub by students for submitting assignments, especially in programming, software engineering, or computer science courses. GitHub offers many educational, technical, and practical advantages compared to traditional submission platforms like Moodle."
+  },
+  {
+    "answer_id": "S122_Q8",
+    "student_id": "S122",
+    "question_id": "Q8",
+    "question": "Can an AI-based system make ethical decisions responsibly? Argue.",
+    "rubric": "argumentative",
+    "answer": "An AI-based system cannot truly make ethical decisions responsibly, at least not in the human sense of moral responsibility. While AI may simulate ethical choices or apply predefined moral rules, it lacks the capacity for self-awareness, empathy, and deep contextual judgment."
+  },
+  {
+    "answer_id": "S122_Q9",
+    "student_id": "S122",
+    "question_id": "Q9",
+    "question": "To what extent do online personalization algorithms affect users' autonomy?",
+    "rubric": "argumentative",
+    "answer": "Online personalization algorithms significantly affect user autonomy, even if this impact is not always visible. While these algorithms offer convenience and relevance, they also influence users’ decisions, preferences, and perceptions in subtle and persistent ways."
+  },
+  {
+    "answer_id": "S122_Q10",
+    "student_id": "S122",
+    "question_id": "Q10",
+    "question": "Is it correct to consider that a machine that passes the Turing Test is \"intelligent\"? Why or why not?",
+    "rubric": "argumentative",
+    "answer": "It is not correct to assume that a machine passing the Turing Test is automatically 'intelligent' in the human or general sense. While passing the test may show impressive imitation of human behavior, it does not guarantee real intelligence, consciousness, or deep understanding."
+  }
+]

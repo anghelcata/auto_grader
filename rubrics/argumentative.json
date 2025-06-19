@@ -1,0 +1,8 @@
+{
+  "criteria": [
+    { "name": "clarity", "description": "Fluency and readability of the answer." },
+    { "name": "coherence", "description": "Logical structure and progression of ideas." },
+    { "name": "originality", "description": "Novelty and creativity in framing the answer." },
+    { "name": "dialecticality", "description": "Engagement with alternative perspectives or counterpoints." }
+  ]
+}

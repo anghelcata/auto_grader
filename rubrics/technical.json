@@ -1,0 +1,8 @@
+{
+  "criteria": [
+    { "name": "accuracy", "description": "Technical correctness of the response." },
+    { "name": "clarity", "description": "Clarity and readability of the explanation." },
+    { "name": "completeness", "description": "Coverage of all key points related to the question." },
+    { "name": "terminology", "description": "Correct use of technical terms and definitions." }
+  ]
+}
